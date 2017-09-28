@@ -1,0 +1,21 @@
+table {
+	border-collapse: collapse;
+}
+tr, td {
+	border: solid;
+	background-color: "#000066";
+	}
+	#a1 {
+		background-color: blue;
+	}
+	th {
+		background-color: grey;
+	} 
+	table {
+	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+	}
